@@ -29,4 +29,4 @@ more language arguments can be found here https://developers.google.com/admin-sd
 
 The result is going to look like this 
 
-![Screenshot](Crawler related keyword and search volume.JPG)
+![Screenshot](result.JPG)
